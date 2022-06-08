@@ -1,0 +1,24 @@
+.container {
+  max-width: 90%;
+  margin: 0 auto;
+}
+.section-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+}
+ul li {
+  list-style: none;
+}
+
+/* Mobile Responsive */
+
+@media only screen and (max-width: 576px) {
+  .container {
+    width: 100%;
+  }
+  .section-container {
+    flex-direction: column;
+  }
+}

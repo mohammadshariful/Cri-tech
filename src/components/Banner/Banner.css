@@ -1,0 +1,27 @@
+.banner-left {
+  width: 40%;
+  text-align: center;
+}
+.banner-right {
+  width: 60%;
+}
+.banner-left img {
+  width: 80%;
+}
+.awarded-container {
+  width: 100%;
+}
+.awarded-container img {
+  width: 100%;
+}
+
+@media only screen and (max-width: 576px) {
+  .banner-left,
+  .banner-right {
+    width: 100%;
+  }
+  .banner-left img {
+    width: 60%;
+    margin: 0 auto;
+  }
+}
