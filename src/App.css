@@ -1,6 +1,6 @@
 .container {
   max-width: 90%;
-  margin: 0 auto 30px;
+  margin: 30px auto 0;
 }
 .section-container {
   display: flex;
