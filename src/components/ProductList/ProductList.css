@@ -1,0 +1,15 @@
+.product-list-container h5 {
+  text-align: center;
+}
+.product {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 10px;
+}
+.productName {
+  font-weight: 400;
+  border-right: 2px solid #d82e2f;
+  padding-right: 3px;
+}
