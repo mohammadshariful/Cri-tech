@@ -10,10 +10,10 @@ const Banner = () => {
           <img src={priceImg} alt="" />
         </div>
         <div className="banner-right">
-          <h2>
+          <h4>
             C.R.I. PUMPS WINS THE NATIONAL ENERGY CONSERVATION AWARD 2018 for
             the 4th time.
-          </h2>
+          </h4>
           <ul>
             <li>
               C.R.I.'s energy efficient products are well recognized by various
